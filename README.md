@@ -1,1 +1,1 @@
-Disclaimer: This respository is based on [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama). I applied the pretrained model downloaded from HuggingFace to the AR(1) and NYISO dataset.
+This respository is based on [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama). I applied the pretrained model downloaded from HuggingFace to the AR(1) and NYISO dataset.
